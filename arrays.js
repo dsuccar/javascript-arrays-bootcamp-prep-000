@@ -1,3 +1,3 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-var addElementToBeginningOfArray = cities.unshift(array)
+ addElementToBeginningOfArray = cities.unshift([1])
